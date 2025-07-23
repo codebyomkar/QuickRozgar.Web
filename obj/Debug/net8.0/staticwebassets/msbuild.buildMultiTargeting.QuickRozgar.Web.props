@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QuickRozgar.Web.props" />
+</Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickRozgar.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddfdb0f6e8c5b6c408e7eebde48a19dfc7640026")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickRozgar.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickRozgar.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
