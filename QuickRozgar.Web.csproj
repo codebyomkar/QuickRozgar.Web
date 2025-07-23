@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\QuickRozgar.DTO\QuickRozgar.DTO.csproj" />
+    <ProjectReference Include="..\QuickRozgar.Entity\QuickRozgar.Entity.csproj" />
+    <ProjectReference Include="..\QuickRozgar.Repo\QuickRozgar.Repo.csproj" />
+  </ItemGroup>
+
 </Project>
